@@ -1,5 +1,6 @@
 import sys
 from dataclasses import dataclass
+import dill
 
 import numpy as np 
 import pandas as pd
